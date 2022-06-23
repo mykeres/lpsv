@@ -21,5 +21,5 @@ pip list
 
 4- and install requirements
 ```bash
- ~ pip install -r requirements.info
+pip install -r requirements.info
 ```
